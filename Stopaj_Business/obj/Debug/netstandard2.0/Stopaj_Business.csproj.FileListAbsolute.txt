@@ -1,0 +1,12 @@
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\bin\Debug\netstandard2.0\Stopaj_Business.deps.json
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\bin\Debug\netstandard2.0\Stopaj_Business.dll
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.csprojAssemblyReference.cache
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.AssemblyInfoInputs.cache
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.AssemblyInfo.cs
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\bin\Debug\netstandard2.0\Stopaj_Business.pdb
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.dll
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.pdb
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\bin\Debug\netstandard2.0\Stopaj_Data.dll
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\bin\Debug\netstandard2.0\Stopaj_Data.pdb
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.csproj.CopyComplete
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Business\obj\Debug\netstandard2.0\Stopaj_Business.csproj.CoreCompileInputs.cache

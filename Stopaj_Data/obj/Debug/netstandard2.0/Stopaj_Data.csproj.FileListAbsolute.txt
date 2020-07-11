@@ -1,0 +1,9 @@
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\bin\Debug\netstandard2.0\Stopaj_Data.deps.json
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\bin\Debug\netstandard2.0\Stopaj_Data.dll
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.csprojAssemblyReference.cache
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.AssemblyInfoInputs.cache
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.AssemblyInfo.cs
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\bin\Debug\netstandard2.0\Stopaj_Data.pdb
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.dll
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.pdb
+C:\Users\EBRU\source\repos\Stopaj\Stopaj_Data\obj\Debug\netstandard2.0\Stopaj_Data.csproj.CoreCompileInputs.cache
